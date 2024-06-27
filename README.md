@@ -1,2 +1,2 @@
 # coursera-test
-coursera-test repository
+This is a new test repository for testing out HTML
